@@ -54,3 +54,7 @@ Catalyst AI is currently being developed step by step. The project currently inc
 **Co-Creator & Idea Collaborator**
 
   Anu is collaborating on the development of Catalyst AI, contributing to its implementation, ideas, and future growth.
+
+### Maithraya (Atharva)
+ 
+  Maithraya contributes to Catalyst AI by researching relevant technologies, concepts, and opportunities, and providing ideas and insights to help guide the project's future development.
